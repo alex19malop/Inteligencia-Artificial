@@ -23,13 +23,13 @@
 
 ## DEFINICIONES
 
-**Atributo**: caracteristica que define a un elemento de un conjunto.
-**Instancia**: coleccion de valores de atributos.
-**Clase**: cada subconjunto en los que se divide el conjunto de instancias.
+* **Atributo**: caracteristica que define a un elemento de un conjunto.
+* **Instancia**: coleccion de valores de atributos.
+* **Clase**: cada subconjunto en los que se divide el conjunto de instancias.
 
 
 ## TÉCNICAS
 
-**Aprendizaje no supervisado**: conjunto de observaciones no tienen clases asociadas (para detectar regularidades en los datos).
-**Aprendizaje supervisado**: cada observación incluye un valor de la clase a la que corresponde (Sirven para la predicción: explicar las causas que llevan a tomar una decisión).
-**Aprendizaje por refuerzo**: el sistema recibe recompensas en función de las decisiones que toma.
+* **Aprendizaje no supervisado**: conjunto de observaciones no tienen clases asociadas (para detectar regularidades en los datos).
+* **Aprendizaje supervisado**: cada observación incluye un valor de la clase a la que corresponde (Sirven para la predicción: explicar las causas que llevan a tomar una decisión).
+* **Aprendizaje por refuerzo**: el sistema recibe recompensas en función de las decisiones que toma.
