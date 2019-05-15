@@ -1,5 +1,5 @@
-#TEMA 9: APRENDIZAJE AUTOMÁTICO
-##INTRODUCCIÓN
+# TEMA 9: APRENDIZAJE AUTOMÁTICO
+## INTRODUCCIÓN
 * **Definición**: Programas que permiten mejorar automáticamente basado en la experiencia de acuerdo a alguna medida.
 * **Objetivos**: Aprender conocimiento nuevo y mejorar el comportamiento de un sistema.
 * **Motivación**:
@@ -21,5 +21,5 @@
   * **Astromomía**: determinar si una imagen contiene algo interesante
   * **Análisis de imágenes**: determinar si una imagen dada contiene una determinada persona
 
-##DEFINICIONES
+## DEFINICIONES
 
